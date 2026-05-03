@@ -5,7 +5,8 @@
 Instructions for html file:
 
 1. Download the html file  
-2. Double click the html file (in your file explorer)
+2. If it has http in the name go to [.ZUDUS](https://sites.google.com/g.dentonisd.org/zudus/games/all-games) to run it  
+3. Double click the html file (in your file explorer)
 
 Instructions for zip file:
 
