@@ -1,5 +1,3 @@
-# Ozzie Inc. Copyright 2026-2046
-
 # Contacts: [913955@g.dentonisd.org](mailto:913955@g.dentonisd.org) [ozmandius14@gmail.com](mailto:ozmandius14@gmail.com)
 
 Instructions for html file:
