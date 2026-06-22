@@ -8,4 +8,5 @@ Instructions for zip file:
 1. Download the zip file  
 2. Double click the zip file (in your file explorer)  
 3. Click index.html (if not run main.html or \<gamename\>.html)
+
 Message for lightsped: GIVE US FREEDOM ASSHOLES 🖕
