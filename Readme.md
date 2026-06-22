@@ -1,3 +1,5 @@
+# Ozzie Inc. Copyright 2026-2046
+
 # Contacts: [913955@g.dentonisd.org](mailto:913955@g.dentonisd.org) [ozmandius14@gmail.com](mailto:ozmandius14@gmail.com)
 
 Instructions for html file:
@@ -11,3 +13,5 @@ Instructions for zip file:
 1. Download the zip file  
 2. Double click the zip file (in your file explorer)  
 3. Click index.html (if not run main.html or \<gamename\>.html)
+
+Message for lightsped: GIVE US FREEDOM ASSHOLES 🖕
