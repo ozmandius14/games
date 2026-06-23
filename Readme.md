@@ -1,5 +1,6 @@
 # Ozzie Inc. Copyright 2026-2046
 Contacts: [913955@g.dentonisd.org](mailto:913955@g.dentonisd.org) [ozmandius14@gmail.com](mailto:ozmandius14@gmail.com)
+
 Instructions for html file:
 1. Download the html file  
 2. If it has http in the name go to [.ZUDUS](https://sites.google.com/g.dentonisd.org/zudus/games/all-games) to run it  
